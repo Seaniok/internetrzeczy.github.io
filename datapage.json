@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Inteligentne Miasta",
+        "is_important": true,
+        "usage_in_procentage": 26,
+        "usage": [
+            "Kontrolowanie oświetlenia ulicznego",
+            "Zarządzanie odbiorem odpadów",
+            "monitorowanie i kontrolę jakości powietrza"
+        ]
+    },
+    {
+        "name": "Przemysłowy internet rzeczy",
+        "is_important": true,
+        "usage_in_procentage": 24,
+        "usage": [
+            "monitorowanie i optymalizację procesów produkcyjnych"
+        ]
+    },
+    {
+        "name": "Artykuły zdrowotne",
+        "is_important": true,
+        "usage_in_procentage": 20,
+        "usage": [
+            "zdalne monitorowanie stanu zdrowia pacjentów",
+            "zarządzanie danymi medycznymi"
+        ]
+    }
+]

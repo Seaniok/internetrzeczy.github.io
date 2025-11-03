@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color:green
+}
+p {
+    text-align: center;
+    margin-bottom: 1cm;
+
+}
+h2 {
+    text-align: center;
+}
+li {
+    text-align: center;
+}
+h3 {
+    text-align: right;
+}
+div.menu {
+    text-align: right;
+}
+
+hoover-cursor {
+    background-color: blue
+}
+
+
+
+
+ 

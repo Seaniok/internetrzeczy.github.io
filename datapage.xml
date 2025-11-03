@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<internetrzeczy>
+    <inteligentne_miasta>
+        <name type="internetrzeczy">Inteligentne Miasta</name>
+        <usage isNeeded="true">kontrolowanie oświetlenia ulicznego, zarządzanie odbiorem odpadów, monitorowanie i kontrolę jakości powietrza;</usage>
+        <usage_in_procentage measure="procentage">26%</usage_in_procentage>
+        <english_name language="english">smart cities</english_name>
+    </inteligentne_miasta>
+    <przemysłowy_internet_rzeczy>
+        <name type="internetrzeczy">Przemysłowy internet rzeczy</name>
+        <usage isNeeded="true">monitorowanie i optymalizację procesów produkcyjnych</usage>
+        <usage_in_procentage measure="procentage">24%</usage_in_procentage>
+        <english_name language="english">Industrial loT</english_name>
+    </przemysłowy_internet_rzeczy>
+    <artykuły_zdrowotne>
+        <name type="internetrzeczy">Artykuły zdrowotne</name>
+        <usage isNeeded="true">zdalne monitorowanie stanu zdrowia pacjentów, zarządzanie danymi medycznymi.</usage>
+        <usage_in_procentage measure="procentage">20%</usage_in_procentage>
+        <english_name language="english">connected health</english_name>
+    </artykuły_zdrowotne>
+</internetrzeczy>                
